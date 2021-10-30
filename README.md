@@ -13,7 +13,7 @@
 - __Task performed:-__
 The classical Machine Learning task like data exploration,feature engineering,model buiding, model testing,Hyperparameters tuning etc.
 - __Deployment:-__
-The model has been deployed using Heroku Cloud application platform where Github is used for version contro.
+The model has been deployed using Heroku Cloud application platform where Github is used for version control.
 - __Model:-__
 Model used here is Logistic Regression.
 - __Accuracy:-__
